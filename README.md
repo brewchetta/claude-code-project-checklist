@@ -13,6 +13,7 @@
 
 - Ask Claude to begin that new feature on a git branch
 - Be specific in your prompt and also the files to work in if you can to limit the scope of Claude's work
+- Be sure to test after you build as well as build automated tests for the feature once it's complete
 - Once the feature is complete, have Claude create and merge a PR for you
 - Delete the branch once the merge is complete so you can keep your workspace clean
 
